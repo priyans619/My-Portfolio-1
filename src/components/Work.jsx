@@ -94,7 +94,7 @@ function Work() {
             <div className='w-full h-[200px] mb-4 rounded-2xl relative overflow-hidden'>
               <div style={{ backgroundImage: `url(${portfolio})`, backgroundSize: 'cover', backgroundPosition: 'bottom' }} className='w-[103%] h-[200px] absolute'/>
               <div className='w-full h-[200px] absolute top-0 left-0 bg-[#fff] opacity-10'></div>
-              <a href="https://github.com/priyans619/My-portfolio" target="_blank"><button type='button' className='bg-[#1a1a1a] hover:bg-[#0e0e0e] rounded-full m-2 p-1.5 text-white text-3xl shadow-md hover:shadow-md hover:shadow-[#0e0e0e] shadow-[#0e0e0e] transition-all duration-700 hover:transition-all hover:duration-700 hover:scale-110 absolute'><AiFillGithub /></button></a>
+              <a href="https://github.com/priyans619/My-Portfolio-1" target="_blank"><button type='button' className='bg-[#1a1a1a] hover:bg-[#0e0e0e] rounded-full m-2 p-1.5 text-white text-3xl shadow-md hover:shadow-md hover:shadow-[#0e0e0e] shadow-[#0e0e0e] transition-all duration-700 hover:transition-all hover:duration-700 hover:scale-110 absolute'><AiFillGithub /></button></a>
             </div>
             
             <div>
