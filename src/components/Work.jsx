@@ -106,7 +106,7 @@ function Work() {
                 <span className='text-[#38bdf8] font-semibold flex items-center gap-0.5'><SiTailwindcss />Tailwind</span>
               </div>
             </div>
-            <a href=""><button type='button' className='w-full bg-[#1a1a1a] hover:bg-[#0e0e0e] shadow-sm shadow-[#6BD425] rounded-md font-semibold p-2 mt-5 mb-2 hover:shadow-[#6BD425] transition-all duration-700 hover:transition-all hover:duration-700 hover:shadow-md hover:scale-[103%] '>Visit</button></a>
+            <a href="https://my-portfolio-1-three.vercel.app/"><button type='button' className='w-full bg-[#1a1a1a] hover:bg-[#0e0e0e] shadow-sm shadow-[#6BD425] rounded-md font-semibold p-2 mt-5 mb-2 hover:shadow-[#6BD425] transition-all duration-700 hover:transition-all hover:duration-700 hover:shadow-md hover:scale-[103%] '>Visit</button></a>
           </div>
           
 
